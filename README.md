@@ -1,65 +1,114 @@
-<h1 align="center">Hi, I'm Seli Kasela 👋</h1>
+<h1 align="center">👋 Hi, I'm Seli Kasela</h1>
 
 <h3 align="center">
-Web Builder • Forecast Systems • Surf Tourism Projects • Digital Creator
+🌊 Web Builder • Forecast Systems • Surf Tourism Expert • Digital Creator
 </h3>
 
 <p align="center">
-Building premium websites, surf business systems, weather dashboards, and creative digital brands.
+Crafting premium websites, intelligent forecast systems, and transformative digital brands for the modern entrepreneur.
 </p>
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Seli-Kasela8?style=social)](https://github.com/Seli-Kasela8)
+  [![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue)](https://github.com/Seli-Kasela8)
+  
+</div>
 
 ---
 
 ## 🌊 About Me
 
-- 📍 Based in Bali, Indonesia
-- 🏄 Founder-focused surf tourism projects
-- 🌐 Building websites & live dashboards
-- 📈 Interested in SEO, growth systems, automation
-- 🚀 Growing premium digital brands
+I'm a **Web Builder & Systems Developer** based in **Bali, Indonesia**, passionate about creating innovative solutions for surf tourism, weather intelligence, and digital brand growth.
+
+- 📍 **Location:** Bali, Indonesia
+- 🏄 **Focus:** Surf tourism projects & founder-led businesses
+- 🌐 **Expertise:** Responsive websites & live interactive dashboards
+- 📈 **Interest:** SEO optimization, growth systems & automation
+- 🚀 **Mission:** Building premium digital experiences that scale
 
 ---
 
-## 🛠 Skills
+## 💻 Tech Stack & Skills
 
-- HTML / CSS / JavaScript
-- GitHub Pages
-- Website Design
-- Forecast Dashboards
-- Branding
-- SEO Strategy
+### Frontend Development
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools:** GitHub Pages, Responsive Design
+- **Specialties:** Website Design, UI/UX Development
 
----
+### Systems & Data
+- **Dashboards:** Weather forecasting, real-time data visualization
+- **Geolocation:** Maps, coordinate systems, location intelligence
+- **Integration:** API connections, data automation
 
-## 🌍 Featured Projects
-
-### 🏄 Ossy Surf Trip Bali
-Premium surf lesson website & booking funnel.
-
-### 🌊 Surf Forecast Dashboard
-Wave, tide, wind, and Bali spot intelligence.
-
-### 📍 Geolocation Systems
-Maps, live coordinates, smart dashboards.
+### Business & Growth
+- **SEO Strategy:** Optimization & content systems
+- **Branding:** Digital identity & premium positioning
+- **Automation:** Business process optimization
 
 ---
 
-## 📫 Connect
+## 🏆 Featured Projects
 
-- GitHub: https://github.com/Seli-Kasela
-- Website: Coming Soon
-- Bali Projects: Open to collaboration
+### 🏄 **Ossy Surf Trip Bali**
+Premium surf lesson booking platform with integrated lesson funnel.
+- Live booking system
+- Premium positioning strategy
+- Surfer marketplace integration
+
+### 🌊 **Surf Forecast Dashboard**
+Real-time intelligent forecast system for Bali's best breaks.
+- Wave height & swell analysis
+- Tide & wind predictions
+- Spot-specific intelligence
+- [View Project →](#)
+
+### 📍 **Geolocation Intelligence System**
+Smart location-based dashboards and mapping solutions.
+- Live coordinate tracking
+- Interactive maps & visualization
+- Custom dashboard analytics
 
 ---
 
-## 📊 Stats
+## 🔗 Connect & Collaborate
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seli-Kasela&show_icons=true)
+| Link | Purpose |
+|------|---------|
+| **[GitHub Profile](https://github.com/Seli-Kasela8)** | Code portfolio & projects |
+| **[Website](#)** | Coming Soon |
+| **Collaboration** | Open to Bali-based projects & partnerships |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seli-Kasela&layout=compact)
+**Email/Inquiry:** Open for freelance work & founder collaborations
 
 ---
 
-## ⚡ Motto
+## 📊 GitHub Activity
 
-> Build useful things. Make them premium.
+<div align="center">
+
+![Seli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seli-Kasela8&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seli-Kasela8&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ Philosophy
+
+> **Build useful things. Make them premium.**
+> 
+> Every project is an opportunity to create value that lasts.
+
+---
+
+<div align="center">
+  
+  ### 🤝 Let's Build Something Amazing Together
+  
+  *Currently available for web development projects, forecast system consulting, and surf tourism ventures.*
+  
+  [Get in Touch](#) • [View Portfolio](#) • [Follow Updates](#)
+  
+</div>
