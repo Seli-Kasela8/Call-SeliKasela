@@ -61,7 +61,7 @@ Real-time intelligent forecast system for Bali's best breaks.
 - Wave height & swell analysis
 - Tide & wind predictions
 - Spot-specific intelligence
-- [View Project →](#)
+- [View Project →](https://github.com/Seli-Kasela8)
 
 ### 📍 **Geolocation Intelligence System**
 Smart location-based dashboards and mapping solutions.
@@ -76,7 +76,7 @@ Smart location-based dashboards and mapping solutions.
 | Link | Purpose |
 |------|---------|
 | **[GitHub Profile](https://github.com/Seli-Kasela8)** | Code portfolio & projects |
-| **[Website](#)** | Coming Soon |
+| **[Website](selikasela.cyou)** | Digital Work |
 | **Collaboration** | Open to Bali-based projects & partnerships |
 
 **Email/Inquiry:** Open for freelance work & founder collaborations
@@ -109,6 +109,6 @@ Smart location-based dashboards and mapping solutions.
   
   *Currently available for web development projects, forecast system consulting, and surf tourism ventures.*
   
-  [Get in Touch](#) • [View Portfolio](#) • [Follow Updates](#)
+  [Get in Touch](https://wa.me/message/PXDWPOO7VLGHI1) • [View Portfolio](https://github.com/Seli-Kasela-Creative-Studio) • [Follow Updates](substack.com/@selikasela)
   
 </div>
